@@ -1,0 +1,58 @@
+
+
+body {
+  background-repeat: no-repeat, repeat;
+  background-color: #ffffff;
+ 
+}
+
+.bread {
+  margin-top: 100px ; 
+  border-radius: 3% ; 
+}
+
+
+.pone {
+  text-align: center ;
+ font-family: 'Kanit', sans-serif;
+ margin-top: 10px ; 
+ font-weight: bold ; 
+}
+
+.container { position: relative;
+            width: 100% ; }
+
+
+/*footer*/
+
+.footer {
+  position: bottom;
+  background-color: white;
+  color: black;
+  text-align: center; 
+  border-width: 100%;
+  margin-top: 100px ; 
+
+   }
+
+
+ .footertext {
+ 		   font-size: 10px; 
+       font-family: 'Work Sans', sans-serif ;
+       margin-top: 10px ;
+       color : black ;  
+ 		 	}
+
+.fa {
+  font-size: 10px;
+  width: 20px;
+  margin-right: 5px ; 
+  text-align: right; 
+  text-decoration: none;
+  color: black ; 
+  font-family : 'Work Sans', sans-serif;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
